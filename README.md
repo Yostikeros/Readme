@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente estoy trabajando en un Proyecto de un Dashboard<br>de riesgos, para una entidad financiera, estoy estudiando HTML,<br>CSS y JAVASCRIPT, me gustaría obtener más información, y ayuda <br>para desarrollarlo de la mejor manera.
+I'm currently working on a Dashboard Project<br>risk management, for a financial institution, I am studying HTML,<br>CSS and JAVASCRIPT, I would like to get more information and help. <br>to develop it in the best way possible.
 
 
 # 💻 Tech Stack:
